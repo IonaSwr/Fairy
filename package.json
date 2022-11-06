@@ -1,0 +1,24 @@
+{
+  "name": "fairy",
+  "version": "1.0.0",
+  "description": "Game",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonaSwr/Fairy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IonaSwr/Fairy/issues"
+  },
+  "homepage": "https://github.com/IonaSwr/Fairy#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "vhost": "^3.0.2"
+  }
+}
